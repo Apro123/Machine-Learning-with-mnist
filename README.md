@@ -1,2 +1,2 @@
-# Machine-Learning-with-mnist
-My machine learning model with the mnist dataset
+# LingHacksWebsite
+Converts handwritten numbers to actual numbers
